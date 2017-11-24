@@ -32,6 +32,6 @@ Source code and schematics are available in the "src" directory to build a singl
 
 But why build an inferior Blipper when you can buy the superior 3-button Blipper straight out of Evan Kale's lab?!
 
-Blipper's available for purchase at: https://www.etsy.com/shop/EvanKale
+Blippers available for purchase at: https://www.etsy.com/shop/EvanKale
 
 ![alt text](https://github.com/evankale/Blipper/blob/master/src/schematics.jpg?raw=true)
