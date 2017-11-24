@@ -1,6 +1,9 @@
 # Blipper
 A camera accessory that inserts computer-recognizable markers into video recordings for automated video editing.
 
+[![Watch the video](https://github.com/evankale/Blipper/blob/master/video.jpg?raw=true)](http://youtu.be/p53PxLBQFAk)
+http://youtu.be/p53PxLBQFAk
+
 Scripts
 =======
 MAGIX/Sony Vegas scripts for automation are available in my VegasScripts repo:
