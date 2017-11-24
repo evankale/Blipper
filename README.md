@@ -3,7 +3,7 @@ A camera accessory that inserts computer-recognizable markers into video recordi
 
 [![Watch the video](https://github.com/evankale/Blipper/blob/master/video.jpg?raw=true)](http://youtu.be/p53PxLBQFAk)
 
-http://youtu.be/p53PxLBQFAk
+Watch the video: http://youtu.be/p53PxLBQFAk
 
 Scripts
 =======
