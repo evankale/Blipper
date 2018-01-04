@@ -23,6 +23,7 @@ The following scripts make use of Blipper markers:
   - Creates splits where blips are made in the left channel audio during the span of the selected video track.
 
 - MapBlipsToMIDI
+  - <b>This is the "CaseyNeistat2.0.cs" that was used in the YouTube video.</b>
   - Maps all blips (created by the Blipper) to MIDI notes of an input MIDI file.
   - Requires NAudio.dll (https://github.com/naudio/NAudio)
  
