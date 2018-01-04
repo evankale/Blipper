@@ -14,18 +14,20 @@ If you think these scripts should be ported over to another software, like Adobe
 
 I will do so if there's a demand for it.
 
-The following scripts make use of Blipper markers:
+The following scripts from the VegasScripts repo (linked above) make use of Blipper markers:
 
-- MarkBlipsInSelectedVideoEvent
+- [MarkBlipsInSelectedVideoEvent](https://github.com/evankale/VegasScripts/blob/master/Scripts/MarkBlipsInSelectedVideoEvent.cs)
   - Finds all blips of a selected video event(inserted by the Blipper) and adds a bookmark at that location.
 
-- SplitBlips
+- [SplitBlips](https://github.com/evankale/VegasScripts/blob/master/Scripts/SplitBlips.cs)
   - Creates splits where blips are made in the left channel audio during the span of the selected video track.
 
-- MapBlipsToMIDI
-  - <b>This is the "CaseyNeistat2.0.cs" that was used in the YouTube video.</b>
+- [MapBlipsToMIDI](https://github.com/evankale/VegasScripts/blob/master/Scripts/MapBlipsToMIDI.cs)
+  - **This is the "CaseyNeistat2.0.cs" that was used in the YouTube video.**
   - Maps all blips (created by the Blipper) to MIDI notes of an input MIDI file.
   - Requires NAudio.dll (https://github.com/naudio/NAudio)
+  
+**Please read the VegasScripts repo's README on how to install the scripts if you are unfamiliar!**
  
 Making a Blipper
 ================
